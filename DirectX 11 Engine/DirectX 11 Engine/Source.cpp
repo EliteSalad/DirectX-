@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <tchar.h>
 
+
 int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR lpCmd, int nCmdShow)
 {
 	D3D11CreateDeviceAndSwapChain(NULL,
@@ -22,3 +23,11 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR lpCmd, int nCmdShow)
 
 	return 0;
 }
+
+//int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
+//	_In_opt_ HINSTANCE hPrevInstance,
+//	_In_ LPWSTR lpCmdLine,
+//	_In_ int nCmdShow)
+//{
+//	return 0;
+//}

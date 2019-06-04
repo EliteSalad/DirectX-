@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol _DXTraceA@20 referenced in function _WinMain@16
+C:\Users\Flaviu\Desktop\Uni finshed projects\Year three\Advanced Programming\Tutorial 02_A\Debug\Tutorial 02_A.vcxproj.exe : fatal error LNK1120: 1 unresolved externals

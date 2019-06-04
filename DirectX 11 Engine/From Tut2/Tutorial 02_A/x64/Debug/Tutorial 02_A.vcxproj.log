@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (G2A.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Tutorial 02_A.vcxproj.vcxproj -> C:\Users\2olivx57\Downloads\DirectX-\DirectX 11 Engine\From Tut2\Tutorial 02_A\x64\Debug\Tutorial 02_A.vcxproj.exe
