@@ -1,4 +1,6 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (G2A.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   ErrorLogger.cpp
-c:\users\2olivx57\downloads\directx-\directx 11 engine\from tut2\tutorial 02_a\errorlogger.cpp(24): error C2440: 'initializing': cannot convert from 'const TCHAR *' to 'std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>>'
-  c:\users\2olivx57\downloads\directx-\directx 11 engine\from tut2\tutorial 02_a\errorlogger.cpp(24): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  Source.cpp
+  StringConverter.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'd3dx11d.lib'
