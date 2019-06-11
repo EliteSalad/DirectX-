@@ -1,7 +1,7 @@
-﻿  ErrorLogger.cpp
-  Source.cpp
-  StringConverter.cpp
+﻿  RenderWindow.cpp
   Generating code
-  All 171 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  5 of 205 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Engine.vcxproj -> C:\Users\2olivx57\Downloads\Chili DirectX Framework\Chili Framework 2016\Release\Engine.exe
+  Engine.vcxproj -> C:\Users\2olivx57\Documents\GitHub\DirectX-\DirectX 11 Engine\New Engine\Engine 2.0\Release\Engine.exe

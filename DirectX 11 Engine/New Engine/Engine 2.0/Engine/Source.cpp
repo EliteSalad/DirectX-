@@ -1,10 +1,17 @@
-#include "ErrorLogger.h"
+#include "RenderWindow.h"
 
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	_In_opt_ HINSTANCE hPrevInstance,
 	_In_ LPWSTR lpCmdLine,
 	_In_ int nCmdShow)
 {
-	ErrorLogger::Log(S_OK, "Test Message");
+	RenderWindow rw;
+	rw.Initilize(hInstance, "Title", "WindowClass", 800, 600);
+
+	//pm returns true if window is active and false if destroyed
+	while (rw.ProcessMessages() == true)
+	{
+		Sleep(50);
+	}
 	return 0;
 }
